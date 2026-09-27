@@ -1,0 +1,46 @@
+{
+  "generatedAt": "2026-09-27T13:31:57.345Z",
+  "periodDays": 30,
+  "summary": {
+    "pageviews": 15,
+    "visitors": 4,
+    "visits": 4,
+    "bounces": 1,
+    "totaltime": 787
+  },
+  "active": {
+    "visitors": 0
+  },
+  "countries": [
+    {
+      "x": "FR",
+      "y": 4
+    }
+  ],
+  "pages": [
+    {
+      "x": "/me/",
+      "y": 4
+    },
+    {
+      "x": "/me/#/stats",
+      "y": 3
+    },
+    {
+      "x": "/me/#/certifications",
+      "y": 2
+    },
+    {
+      "x": "/me/#/resume",
+      "y": 2
+    },
+    {
+      "x": "/me/#/",
+      "y": 2
+    },
+    {
+      "x": "/me/#/project",
+      "y": 1
+    }
+  ]
+}
